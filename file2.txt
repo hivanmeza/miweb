@@ -2,3 +2,5 @@ chanchito feliz
 otro chanchito
 
 cambios para la version
+
+nuevas lineas de <i class="fas fa-closed-captioning    "></i>
